@@ -13,7 +13,7 @@
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS-808080?style=for-the-badge&logo=CSS3&logoColor=blue" />
   <img align="center" alt="html" src="https://img.shields.io/badge/HTML5-ffa500?style=for-the-badge&logo=HTML5&logoColor=black" />
   <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-ffa500?style=for-the-badge&logo=HTML5&logoColor=black" />
-  <img align="center" alt="JAVA" src="https://img.shields.io/badge/JAVA-ffa500?style=for-the-badge&logo=HTML5&logoColor=black" />
+  <img align="center" alt="JAVA" src="https://img.shields.io/badge/JAVA-ffa500?style=for-the-badge&logo=JAVA&logoColor=black" />
 </div><br/>
 
 
