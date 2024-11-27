@@ -12,6 +12,7 @@
   <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-3776AB?style=for-the-badge&logo=javascript&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS-808080?style=for-the-badge&logo=CSS3&logoColor=blue" />
   <img align="center" alt="html" src="https://img.shields.io/badge/HTML5-ffa500?style=for-the-badge&logo=HTML5&logoColor=black" />
+  <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-ffa500?style=for-the-badge&logo=HTML5&logoColor=black" />
 </div><br/>
 
 
