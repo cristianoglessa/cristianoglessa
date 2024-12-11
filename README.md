@@ -2,7 +2,8 @@
 
 - Cursando Análise e Desenvolvimento de Sistemas pela Universidade Estácio.
 - Técnico em Gestão de Negócios (Administração) pelo SENAI-MG
-- Cantor de Karaokê nas horas vagas
+- Em transição de carreira
+- Com muito foco e disposição para aprender
 - Amo Viajar e amo Assistir séries em inglês
 
 ## Meu conhecimentos até o momento💻
