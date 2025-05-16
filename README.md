@@ -1,8 +1,10 @@
 ### ✨ Olá seja bem vindo ao meu perfil, Eu sou o Cristiano Lessa ✨
 
 - Cursando Análise e Desenvolvimento de Sistemas pela Universidade Estácio.
+- Cursando Engenharia da Computação pela Una.
 - Técnico em Gestão de Negócios (Administração) pelo SENAI-MG
 - Em transição de carreira
+- Busco uma oportunidade de Estágio em TI, Desenvolvimento de Software e áreas afins.
 - Com muito foco e disposição para aprender
 - Amo Viajar e amo Assistir séries em inglês
 
